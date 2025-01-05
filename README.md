@@ -62,7 +62,8 @@ The goal of this project is to build a scalable, secure, and efficient data pipe
 
 
 ### 2. Databricks Notebook
-![Databricks Notebook](./images/databricks-notebook.png)
+![image](https://github.com/user-attachments/assets/dbd9cb4f-8773-4385-a59f-b473d87060df)
+
 
 ### 3. Azure Synapse Analytics 
 ![image](https://github.com/user-attachments/assets/aa0a15df-6943-4f03-bb4c-4aec4e77c6a9)
