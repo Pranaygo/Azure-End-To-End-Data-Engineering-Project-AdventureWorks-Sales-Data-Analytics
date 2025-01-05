@@ -58,8 +58,7 @@ The goal of this project is to build a scalable, secure, and efficient data pipe
 
 ## **Screenshots**
 ### 1. Azure Data Factory Pipeline
-![Data Factory Pipeline] (![image](https://github.com/user-attachments/assets/b74a09fd-ded4-4540-af57-9f4d90cc2b04)
-)
+![Data Factory Pipeline](.![image](https://github.com/user-attachments/assets/b74a09fd-ded4-4540-af57-9f4d90cc2b04))
 
 ### 2. Databricks Notebook
 ![Databricks Notebook](./images/databricks-notebook.png)
