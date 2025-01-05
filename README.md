@@ -64,11 +64,13 @@ The goal of this project is to build a scalable, secure, and efficient data pipe
 ### 2. Databricks Notebook
 ![Databricks Notebook](./images/databricks-notebook.png)
 
-### 3. Azure Synapse Analytics
-![Synapse Analytics](./images/synapse-analytics.png)
+### 3. Azure Synapse Analytics 
+![image](https://github.com/user-attachments/assets/aa0a15df-6943-4f03-bb4c-4aec4e77c6a9)
+
 
 ### 4. Power BI Dashboard
-![Power BI Dashboard](./images/powerbi-dashboard.png)
+![image](https://github.com/user-attachments/assets/e2c82b29-473c-4d83-a13c-158bfb7b3541)
+
 
 
 ## **How to Run This Project**
