@@ -76,4 +76,7 @@ The goal of this project is to build a scalable, secure, and efficient data pipe
 - Access to Azure services: Data Factory, Databricks, Data Lake Storage, Synapse Analytics, and Power BI
 - Basic knowledge of PySpark, SQL, and ETL processes
 
-References: Luke J Byrne video on End to End Azure Data Engineering Project[https://www.youtube.com/watch?v=ygJ11fzq_ik] 
+---
+
+## **Reference**
+Luke J Byrne video on End to End Azure Data Engineering Project[https://www.youtube.com/watch?v=ygJ11fzq_ik] 
